@@ -3,7 +3,7 @@ Date: 2010-12-03 10:20
 Modified: 2010-12-05 19:30
 Category: eCommerce, DevOps
 Tags: magento, AWS, how-to, database, php
-Slug: how-to-cluster-magento
+Slug: merits-of-dynamodb
 Authors: Vlad Duda
 Summary: How to cluster Magento
 
