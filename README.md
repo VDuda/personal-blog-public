@@ -5,7 +5,7 @@ Pelican is a prerequisite for generating this site.
 
 ### Packages
 ```
-pip install pelican python-gettext jinja2
+pip install pelican python-gettext jinja2 ghp-import
 ```
 
 ### Themes
