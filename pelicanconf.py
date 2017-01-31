@@ -20,10 +20,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('About', 'http://getpelican.com/'),
+         ('Projects', 'http://python.org/'),
+         ('KeyBase', 'https://keybase.io/duda'),
+         ('PGP Key: DD8E E61C 7685 4385', ''),
+         ('Get in touch with me via Twitter or Email!', 'mailto:vlad.duda@outlook.com'))
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/BigBostonGuy'),

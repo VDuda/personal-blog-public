@@ -18,6 +18,9 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
+# Categories
+DEFAULT_CATEGORY = 'Thoughts'
+
 # Following items are often useful when publishing
 
 GITHUB_URL = "https://github.com/VDuda"
