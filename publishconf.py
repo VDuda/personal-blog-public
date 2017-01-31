@@ -22,4 +22,6 @@ DELETE_OUTPUT_DIRECTORY = True
 
 GITHUB_URL = "https://github.com/VDuda"
 DISQUS_SITENAME = "vlad-duda.disqus.com"
+DISQUS_NO_ID = True
+DISQUS_DISPLAY_COUNTS = True
 #GOOGLE_ANALYTICS = ""

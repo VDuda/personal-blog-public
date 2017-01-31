@@ -26,8 +26,10 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', 'http://twitter.com/BigBostonGuy'),
+          ('linkedin', 'http://www.linkedin.com/in/vduda'),
+          ('github', 'https://github.com/VDuda'),
+          ('stackoverflow', 'http://stackoverflow.com/users/3757609/vidalia', 'stack-overflow'))
 
 DEFAULT_PAGINATION = 10
 
