@@ -31,6 +31,9 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
+# Article settings
+SUMMARY_MAX_LENGTH = 50
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
