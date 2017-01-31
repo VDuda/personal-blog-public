@@ -36,4 +36,8 @@ DEFAULT_PAGINATION = 10
 
 # Theme
 THEME = "pelican-themes/pelican-bootstrap3"
+
+# Plugins
 JINJA_EXTENSIONS = ['jinja2.ext.i18n']
+PLUGIN_PATHS = ["pelican-plugins"]
+PLUGINS = ['i18n_subsites']
