@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Vlad Duda</title>
+    <link>http://vlad-duda.me/categories/</link>
+    <description>Recent content in Categories on Vlad Duda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="http://vlad-duda.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://vlad-duda.me/categories/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>http://vlad-duda.me/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ad</title>
+      <link>http://vlad-duda.me/categories/ad/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>http://vlad-duda.me/categories/ad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articles</title>
+      <link>http://vlad-duda.me/categories/articles/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>http://vlad-duda.me/categories/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propaganda</title>
+      <link>http://vlad-duda.me/categories/propaganda/</link>
+      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      
+      <guid>http://vlad-duda.me/categories/propaganda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://vlad-duda.me/categories/resume/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>http://vlad-duda.me/categories/resume/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
