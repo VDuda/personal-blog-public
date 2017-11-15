@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "/" 
+baseurl = "http://vlad-duda.me/" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -15,15 +15,15 @@ title = "Vlad Duda"
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
-disqusShortname = "vlad-duda" # Comment out to disable Disqus.
-googleAnalytics = "XYZ"
+#disqusShortname = "vlad-duda" # Comment out to disable Disqus.
+googleAnalytics = "UA-61576514-1"
 enableRobotsTXT = true
 
 ## Site Settings
 [params]
 author = "Vlad Duda"
-intro = "Startup Guru Extraordinaire"
-description = "Now @Pied Piper. Previously @Hacker Hostel, @Bachmanity and @Aviato. <br/> \"What is F times 5? It's Fleventy-five.\""
+intro = "Pragmatist"
+description = "Now @Rakuten, Previously @MaxwellHealth, @NuoDB and @TheLightWalk. <br/> \"Simplicity is the ultimate sophistication.\""
 authorimage = "portrait.jpg"
 dateformat = "Jan 2, 2006"
 
