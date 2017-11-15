@@ -1,17 +1,19 @@
 +++
+categories = ["resume"]
+comments = false
+date = "2016-10-02T22:55:05-04:00"
+draft = false
+slug = ""
+tags = ["resume"]
 title = "Resume"
-date = 2017-01-01
-math = false
-highlight = false
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
-
+type = "resume"
 +++
-<object data="http://vlad-duda.me/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://vlad-duda.me/the.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="http://vlad-duda.me/the.pdf">Download PDF</a>.</p>
+
+show me what you're working with 
+Hello
+
+<object data="http://vlad-duda.me/resume.pdf" type="application/pdf" width="650px" height="900px">
+    <embed src="http://vlad-duda.me/resume.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://vlad-duda.me/resume.pdf">Download PDF</a>.</p>
     </embed>
 </object>
