@@ -29,8 +29,8 @@ dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
-keywords = "minimalist,blog,goa,hugo,developer"
+description = "Simple minimalist Vlad Duda"
+keywords = "minimalist,vlad,duda,blog,goa,hugo,developer"
 
 ## Social Accounts
 [params.social]
