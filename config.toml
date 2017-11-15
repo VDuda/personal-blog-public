@@ -7,8 +7,8 @@ publishDir = "docs"
 [params]
     name = "Vlad Duda"
     description = "Simple at the Core"
-    email = "Vlad.Duda.Slack@gmail.com"
-    phone = "+1(857) 323-2755"
+    email = ""
+    phone = "+1 (857) 323-2755"
     address = "PO BOX 52573, Boston MA "
     year = 2017
     background = ""
@@ -17,9 +17,9 @@ publishDir = "docs"
 
     showSubheader = true
     showServices = true
-    showRecentWorks = true
-    showDownload = true
-    showClients = true
+    showRecentWorks = false
+    showDownload = false
+    showClients = false
 
 [[menu.main]]
     name = "home"
