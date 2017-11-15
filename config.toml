@@ -1,70 +1,68 @@
-baseURL = "http://vlad-duda.me"
-languageCode = "en-us"
-title = "Meet Vlad Duda"
-theme = "hugo-initio"
-publishDir = "docs"
+## Basic Configuration
 
+baseurl = "https://shenoybr.github.io/hugo-goa-demo/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Vlad Duda"
+title = "Vlad Duda"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+disqusShortname = "vlad-duda" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
 [params]
-    name = "Vlad Duda"
-    description = "Simple at the Core"
-    email = ""
-    phone = "+1 (857) 323-2755"
-    address = "PO BOX 52573, Boston MA "
-    year = 2017
-    background = ""
-    favicon = "images/gt_favicon.png"
-    DateForm = "January 2, 2006"
+author = "Vlad Duda"
+intro = "Startup Guru Extraordinaire"
+description = "Now @Pied Piper. Previously @Hacker Hostel, @Bachmanity and @Aviato. <br/> \"What is F times 5? It's Fleventy-five.\""
+authorimage = "portrait.jpg"
+dateformat = "Jan 2, 2006"
 
-    showSubheader = true
-    showServices = true
-    showRecentWorks = false
-    showDownload = false
-    showClients = false
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
 
+## Social Accounts
+[params.social]
+github = "Vduda"
+# instagram = "<username>"
+# xing = "<username>"
+linkedin = "vduda"
+twitter = "BigBostonGuy"
+#facebook = "<username>"
+#google = "<username>"
+#stackoverflow = "<username>"
+email = "vlad.duda.slack@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2017. Vlad Duda. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = true
+highlightjs = true
+
+## Main Menu
+# [[menu.main]]
+#     name = "blog"
+#     weight = 100
+#     identifier = "blog"
+#     url = "/blog/"
 [[menu.main]]
-    name = "home"
-    url = "/"
-    weight = 1
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
 [[menu.main]]
     name = "resume"
+    identifier = "resume"
+    weight = 300
     url = "/resume/"
-    weight = 5
-
-[params.disqus]
-    site = "vlad-duda"
-
-[params.sharethis]
-    property = "123456789012345678901234"
-    custom = true
-
-[params.google.analytics]
-    trackerID = "UA-61576514-1"
-
-[[params.social]]
-  title = "twitter"
-  url = "https://twitter.com/BigBostonGuy"
-    icon = "fa-twitter-square"
-    footer = true
-    sharethis = true
-    network = "twitter"
-[[params.social]]
-  title = "linkedin"
-  url = "https://www.linkedin.com/in/vduda"
-    icon = "fa-linkedin-square"
-    footer = true
-    sharethis = true
-    network = "linkedin"
-[[params.social]]
-  title = "github"
-  url = "https://github.com/VDuda"
-    icon = "fa-github"
-    footer = true
-    sharethis = false
-    network = ""
-[[params.social]]
-  title = "email"
-  url = "mailto:Vlad.Duda.Slack@gmail.com"
-    icon = "fa-envelope"
-    footer = false
-    sharethis = true
-    network = "email"
