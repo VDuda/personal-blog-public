@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://shenoybr.github.io/hugo-goa-demo/" 
+baseurl = "/" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -59,10 +59,10 @@ highlightjs = true
 [[menu.main]]
     name = "about"
     identifier = "about"
-    weight = 200
+    weight = 100
     url = "/about/"
 [[menu.main]]
     name = "resume"
     identifier = "resume"
-    weight = 300
+    weight = 200
     url = "/resume/"
