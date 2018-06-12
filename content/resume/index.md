@@ -11,8 +11,4 @@ type = "resume"
 
 Resume visible below, <a href="https://drive.google.com/open?id=10K82UV2uTGxjshff_-suJtjVs2SXJIVv">Download PDF</a>.
 
-<object data="https://drive.google.com/viewerng/viewer?embedded=true&url=https://drive.google.com/open?id=10K82UV2uTGxjshff_-suJtjVs2SXJIVv" type="application/pdf" width="650px" height="900px">
-    <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://drive.google.com/open?id=10K82UV2uTGxjshff_-suJtjVs2SXJIVv">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/open?id=10K82UV2uTGxjshff_-suJtjVs2SXJIVv">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe src="http://docs.google.com/gview?url=https://drive.google.com/open?id=10K82UV2uTGxjshff_-suJtjVs2SXJIVv&embedded=true" style="width:650px; height:900px;" frameborder="0"></iframe>
