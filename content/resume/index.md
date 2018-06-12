@@ -9,11 +9,8 @@ title = "Resume"
 type = "resume"
 +++
 
-show me what you're working with 
-Hello
-
-<object data="http://vlad-duda.me/resume.pdf" type="application/pdf" width="650px" height="900px">
-    <embed src="http://vlad-duda.me/resume.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="http://vlad-duda.me/resume.pdf">Download PDF</a>.</p>
+<object data="https://drive.google.com/viewerng/viewer?embedded=true&url=https://drive.google.com/open?id=10K82UV2uTGxjshff_-suJtjVs2SXJIVv" type="application/pdf" width="650px" height="900px">
+    <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://drive.google.com/open?id=10K82UV2uTGxjshff_-suJtjVs2SXJIVv">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/open?id=10K82UV2uTGxjshff_-suJtjVs2SXJIVv">Download PDF</a>.</p>
     </embed>
 </object>
