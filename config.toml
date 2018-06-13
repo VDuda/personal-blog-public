@@ -23,14 +23,14 @@ enableRobotsTXT = true
 [params]
 author = "Vlad Duda"
 intro = "Pragmatist"
-description = "Now @Rakuten, Previously @MaxwellHealth, @NuoDB and @TheLightWalk. <br/> \"Simplicity is the ultimate sophistication.\""
+description = "Now <a href=\"https://rit.rakuten.co.jp\">@Rakuten</a>, Previously <a href=\"https://maxwellhealth.com\">@MaxwellHealth</a>, <a href=\"https://nuodb.com\">@NuoDB</a> and <a href=\"https://TheLightWalk.com\">@TheLightWalk</a>. <br/> \"Simplicity is the ultimate sophistication.\""
 authorimage = "portrait.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
 description = "Simple minimalist Vlad Duda"
-keywords = "minimalist,vlad,duda,blog,goa,hugo,developer"
+keywords = "minimalist,vlad,duda,blog,goa,hugo,pragmatist"
 
 ## Social Accounts
 [params.social]
@@ -46,7 +46,7 @@ email = "vlad.duda.slack@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2017. Vlad Duda. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2018. Vlad Duda. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
 poweredby = true
 highlightjs = true
 
